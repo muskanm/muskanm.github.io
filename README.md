@@ -1,3 +1,5 @@
 # muskanm.github.io
 
-This is the Portfolio Website using HTML, CSS and Javascript.
+Hello! I'm Muskan Mahajan
+
+This is my Portfolio Website using HTML, CSS and Javascript.
